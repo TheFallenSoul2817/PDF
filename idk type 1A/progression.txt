@@ -1,0 +1,4 @@
+ssh > apache2 > php php-mysql php-xml > mysqli_secure_installation > mariadb-server > setting mariadb > phpMyAdmin > proftpd > proftpd.conf > proftpd restart + status > chmod 777 /var/www/html > FileZilla > wordpress import > db_evan > open + install wordpress > install themes > chmod 777 /var/www/html/wp-content > bikin wordpress > post > dns > ssl > snmp
+
+note:
+1. for monitor /usr/share/cacti/site and for base /var/www/html
